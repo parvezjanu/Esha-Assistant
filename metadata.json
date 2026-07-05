@@ -1,0 +1,6 @@
+{
+  "name": "ESHA - Real-Time Voice AI Assistant",
+  "description": "ESHA is a real-time, voice-to-voice AI assistant with a sassy, flirty, and witty personality, featuring dual interaction modes (Voice + Text) and browser function calling.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
